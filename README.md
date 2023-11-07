@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @novabyte52
 
-I hold a Bachelors of Science in Computer Science and have a mathematics minor.
+I hold a Bachelors of Science in Computer Science and have a Mathematics minor.
 I currently work as a professional full stack software engineer.
 I enjoy nature, programming, games (mostly city builders and survival games) and
 sharing my ideas with the wider world
