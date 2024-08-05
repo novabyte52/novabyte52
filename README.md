@@ -1,16 +1,18 @@
 ## 👋 Hi, I’m @novabyte52
 
 I hold a Bachelors of Science in Computer Science and have a Mathematics minor.
-I currently work as a professional full stack software engineer.
+I've mostly worked as a professional full stack software engineer in the web dev space.
 I enjoy nature, programming, games (mostly city builders and survival games) and
 sharing my ideas with the wider world
 
 ## 👀 I’m interested in ...
+
 - game programming
 - graphics programming
 - game engine programming
-- WoT
-- AI Assistants (of the homebrew variety)
+- WoT (web of things)
+- Personal AI Assistants
+- Operating System Development
 
 ## 🌱 I’m currently learning ...
 
