@@ -11,8 +11,9 @@ sharing my ideas with the wider world
 - graphics programming
 - game engine programming
 - WoT (web of things)
-- Personal AI Assistants
-- Operating System Development
+- personal AI assistants
+- operating system development
+- open source software
 
 ## 🌱 I’m currently learning ...
 
