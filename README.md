@@ -31,10 +31,7 @@ novabyte@novabyte.blog
 
 ### credits
 
-profile pic by norma_2d:
-Twitter - https://twitter.com/norma_2d
-DeviantArt - https://www.deviantart.com/norma2d
-Ko-fi - https://ko-fi.com/norma2d
+profile pic by norma_2d: [Twitter](https://twitter.com/norma_2d) | [DeviantArt](https://www.deviantart.com/norma2d) | [Ko-fi](https://ko-fi.com/norma2d)
 
 <!---
 novabyte52/novabyte52 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
